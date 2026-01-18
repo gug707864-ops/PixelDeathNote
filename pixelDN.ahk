@@ -1,4 +1,4 @@
-﻿#Include Gdip.ahk
+
 
 ; Path to image
 imageFile := "image.png"
